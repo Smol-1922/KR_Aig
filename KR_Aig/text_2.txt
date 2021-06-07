@@ -1,0 +1,5 @@
+SO 3
+S R 1
+O T 5
+R O 1
+R T 3
